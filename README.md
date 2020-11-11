@@ -3,6 +3,10 @@
 <!--
 **2hyes/2hyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+✨ Skill
+* Programming Languages - Python, C, Java
+* Operating System - Windows, Linux(Ubuntu)
+* Etc - SAS, R, MySQL, MariaDB, Oracle, AWS, FLASK
 
 🔭 I’m currently working on mobilio located in Seongnam. \
 &ensp;&ensp;&ensp;tech: language - **C#**, DBMS - **MySQL, MariaDB**, etc - **Grafana**
