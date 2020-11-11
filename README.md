@@ -26,7 +26,7 @@
 </ul>
 
 🖥 I'd been some projects about ML/DL. \
-<i>If you interested in my projects, please visit my github repository.</i>
+&ensp;&ensp;&ensp;<i>If you interested in my projects, please visit my github repository.</i>
 <ul>
   <li>제 17회 SAS분석 챔피언십 입선</li>  
   <li>Small Fabric Database for Defect Detection</li>  
