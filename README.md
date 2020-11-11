@@ -9,7 +9,7 @@
 * Etc - SAS, R, MySQL, MariaDB, Oracle, AWS, FLASK
 
 🔭 I’m currently working on mobilio located in Seongnam. \
-&ensp;&ensp;&ensp;tech: language - **C#**, DBMS - **MySQL, MariaDB**, etc - **Grafana**
+&ensp;&ensp;&ensp;<i>tech: language - <b>C#</b>, DBMS - <b>MySQL, MariaDB</b>, etc - <b>Grafana</b></i>
 <ol>
   <li>센싱 데이터 송수신 및 모니터링 프로그램 디버깅 및 안정화</li>
   <li>프로그램 배포 및 환경 구축</li>
