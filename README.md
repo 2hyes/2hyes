@@ -38,7 +38,7 @@
  <ul>
   <li>E-mail: <a href="2hyes.com@gmail.com">2hyes.com@gmail.com</a></li>
   <li>Blog: <a href="https://2hyes.tistory.com/">https://2hyes.tistory.com/</a></li>
-  <li>Portfolio: <a href="https://2hyes.github.io/">https://2hyes.github.io/</a></li>
+  <li>Portfolio: <a href="https://sites.google.com/view/hyeseunglee/">https://sites.google.com/view/hyeseunglee/</a></li>
 </ul>
 
 <!--
