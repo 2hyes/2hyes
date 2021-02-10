@@ -10,13 +10,13 @@
 
 🔭 I worked on mobilio located in Seongnam. \
 &ensp;&ensp;&ensp;<i>tech: language - <b>C#</b>, DBMS - <b>MySQL, MariaDB</b>, etc - <b>Grafana</b></i>
-<ol>
+<ul>
   <li>센싱 데이터 송수신 및 모니터링 프로그램 디버깅 및 안정화</li>
   <li>프로그램 배포 및 환경 구축</li>
   <li>센서 네트워크망 형성(센서(Ubuntu기반) → 라우터 → PC → AWS 클라우드서버 DB)</li>
   <li>Database 관리</li>
   <li>오픈소스 대시보드 프로그램인 grafana를 활용하여, 실시간 데이터를 시각화하는 대시보드 구현</li>
-</ol>
+</ul>
 
 🧠 I'm working on Dable located in Gangnam. \
 &ensp;&ensp;&ensp;Machine learning intern
