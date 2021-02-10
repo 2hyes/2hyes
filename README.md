@@ -6,7 +6,7 @@
 ✨ Skill
 * Programming Languages - Python, C, Java
 * Operating System - Windows, Linux(Ubuntu)
-* Etc - SAS, R, MySQL, MariaDB, Oracle, AWS, FLASK
+* Etc - SAS, R, MySQL, MariaDB, Oracle, AWS, FLASK, Pytorch
 
 🔭 I worked on mobilio located in Seongnam. \
 &ensp;&ensp;&ensp;<i>tech: language - <b>C#</b>, DBMS - <b>MySQL, MariaDB</b>, etc - <b>Grafana</b></i>
@@ -17,6 +17,9 @@
   <li>Database 관리</li>
   <li>오픈소스 대시보드 프로그램인 grafana를 활용하여, 실시간 데이터를 시각화하는 대시보드 구현</li>
 </ol>
+
+🧠 I'm working on Dable located in Gangnam. \
+&ensp;&ensp;&ensp;Machine learning intern
 
 🌱 I’m currently learning Recommender System and Graph based algorithm.
 <ul>
@@ -47,8 +50,6 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 💬 Ask me about ...
--->
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2hyes&show_icons=true)
 <br>
-
+-->
