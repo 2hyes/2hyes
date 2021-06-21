@@ -19,7 +19,7 @@
 </ul>
 
 🧠 Now, I'm working on <b>Dable</b> located in Gangnam. \
-&ensp;&ensp;&ensp;Machine learning intern
+&ensp;&ensp;&ensp;Computer Vision Engineer
 
 🌱 I learned Recommender System and Graph based algorithm.
 <ul>
